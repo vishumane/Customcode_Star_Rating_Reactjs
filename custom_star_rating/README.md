@@ -1,6 +1,3 @@
-# Customcode_Star_Rating_Reactjs
-custom code for star ratings on mouse event in reactjs.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
